@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: #ffd569;
+  min-height: 100vh;
+  padding: 40px;
+}
+.card {
+  background-color: #ffffff;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 18px;
+}
+.heading{
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 42px;
+    margin-bottom:30px ;
+    color:Hex: #000000;
+}
+.span-element{
+    color:Hex: #ffd569;
+}
+.inner-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width:30%;
+}
+.button-element{
+    background-color: blue;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 4px;
+    cursor:pointer;
+    outline: none;
+}
